@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+.customerBoard {
+    text-align: center;
+    position: relative;
+    float: left;
+    background-color: aliceblue;
+    margin: 5px;
+    padding: 5px;
+}
+
+.taskslist {
+    list-style-type: none;
+    text-align: center;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+#checkdone {
+    background-color: yellow;
+}
